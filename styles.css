@@ -616,10 +616,10 @@ a {
 }
 
 #nav-bar a:hover {
-    background-color: #504141;
+    background-color: #ee7a7a;
 }
 
 img[id="header-img"]:hover {
-    background-color: #504141;
+    background-color: #dd9d9d;
     cursor: pointer;
 }
